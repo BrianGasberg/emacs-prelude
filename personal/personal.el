@@ -1,5 +1,6 @@
 (prelude-require-package 'yasnippet)
 (prelude-require-package 'yasnippet-snippets)
+(prelude-require-package 'spacemacs-theme)
 
 (setq yas-snippet-dirs
       '("~/.emacs.d/personal/snippets"                 ;; personal snippets
